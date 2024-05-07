@@ -1,6 +1,17 @@
 import './bootstrap';
 import '../css/app.css';
 
+// import '../src/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js';
+// import '../src/assets/vendor/js-cookie/js.cookie.js';
+// import '../src/assets/vendor/jquery.scrollbar/jquery.scrollbar.min.js';
+// import '../src/assets/vendor/jquery-scroll-lock/dist/jquery-scrollLock.min.js';
+// import '../src/assets/vendor/chart.js/dist/Chart.min.js';
+// import '../src/assets/vendor/chart.js/dist/Chart.extension.js';
+// import '../src/assets/js/argon.min.js?v=1.2.1';
+// import '../src/assets/js/demo.min.js';
+
+
+
 import { createApp, h } from 'vue';
 import { createInertiaApp } from '@inertiajs/vue3';
 import { resolvePageComponent } from 'laravel-vite-plugin/inertia-helpers';

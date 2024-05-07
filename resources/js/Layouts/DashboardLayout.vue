@@ -37,7 +37,7 @@
 
         <link rel="icon" href="../../assets/img/brand/favicon.png" type="image/png" />
 
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" />
+        
 
         
     </head>
@@ -54,18 +54,7 @@
             
         </div>
         
-        <!-- <script src="../../../src/assets/vendor/jquery/dist/jquery.min.js"></script>
-        <script src="../../../src/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-        <script src="../../../src/assets/vendor/js-cookie/js.cookie.js"></script>
-        <script src="../../../src/assets/vendor/jquery.scrollbar/jquery.scrollbar.min.js"></script>
-        <script src="../../../src/assets/vendor/jquery-scroll-lock/dist/jquery-scrollLock.min.js"></script>
-
-        <script src="../../../src/assets/vendor/chart.js/dist/Chart.min.js"></script>
-        <script src="../../../src/assets/vendor/chart.js/dist/Chart.extension.js"></script>
-
-        <script src="../../../src/assets/js/argon.min.js?v=1.2.1"></script>
-
-        <script src="../../../src/assets/js/demo.min.js"></script> -->
+        
     </body>
 
     </html>
