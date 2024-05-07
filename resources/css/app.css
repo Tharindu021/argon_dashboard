@@ -1,0 +1,6 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+@import 'resources\src\assets\css\argon.min.css_v=1.2.1';
+@import 'resources\src\assets\vendor\nucleo\css\nucleo.css';
+@import 'resources\src\assets\vendor\@fortawesome\fontawesome-free\css\all.min.css';
