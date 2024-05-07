@@ -4,7 +4,6 @@
       <div class="card-header">
         <h5 class="h3 mb-0">To do list</h5>
       </div>
-
       <div class="card-body p-0">
         <ul class="list-group list-group-flush" data-toggle="checklist">
           <li class="checklist-entry list-group-item flex-column align-items-start py-4 px-4">

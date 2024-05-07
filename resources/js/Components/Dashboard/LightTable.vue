@@ -608,8 +608,6 @@
         <BitcoinCard />
       </div>
     </div>
-
-
   </div>
 </template>
 

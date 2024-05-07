@@ -1,5 +1,4 @@
 <template>
-
   <div class="col-xl-8">
     <div class="card">
       <div class="card-header border-0">

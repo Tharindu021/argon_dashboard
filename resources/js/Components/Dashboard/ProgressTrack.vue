@@ -4,7 +4,6 @@
       <div class="card-header">
         <h5 class="h3 mb-0">Progress track</h5>
       </div>
-
       <div class="card-body">
         <ul class="list-group list-group-flush list my--3">
           <li class="list-group-item px-0">
