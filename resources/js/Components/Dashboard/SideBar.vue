@@ -5,7 +5,7 @@
 
          <div class="sidenav-header  d-flex  align-items-center">
             <a class="navbar-brand" href="javascript:void(0)">
-               
+
                <img src="../../../src/assets/img/brand/blue.png" class="navbar-brand-img" alt="...">
             </a>
             <div class=" ml-auto ">
@@ -308,14 +308,7 @@
 
 </template>
 
-<script>
-
-
-export default {
-
-}
+<script setup>
 </script>
 
-<style lang="scss" scoped>
-
-</style>
+<style lang="scss" scoped></style>
